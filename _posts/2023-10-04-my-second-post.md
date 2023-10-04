@@ -3,7 +3,7 @@ layout: post
 title: Мій другий пост
 ---
 
-some content
+some content<!--more-->
 {% highlight c %}
 int main() {
   c = a + b;
