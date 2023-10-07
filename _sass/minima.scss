@@ -13,11 +13,13 @@ $spacing-unit:     30px !default;
 $text-color:       #111 !default;
 $background-color: #d3d5cb !default;
 $code-background-color: #d3d5e2 !default;
-$bg-color: #4a4a65 !default;
+$bg-color: #5d5d74 !default;
 $site-title-color: #e0e0e0 !default;
-$brand-color:      #2a7ae2 !default;
-
-$grey-color:       #828282 !default;
+$post-meta-color: #404040 !default;
+//$brand-color:      #2a7ae2 !default;
+$brand-color:      #1111a0 !default;
+//$grey-color:       #828282 !default;
+$grey-color:       #c0c0c0 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
